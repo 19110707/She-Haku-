@@ -1,0 +1,97 @@
+img{
+    max-width:100%;
+}
+html,body{
+    margin: 0 auto;
+}
+body{
+    line-height:0;
+    padding: 0;
+}
+.top2{ 
+    width:80vw;
+    float: right;
+    position: relative;
+    top:5px;
+    right:5px;
+}
+.top3{
+    width:80vw;
+    float: left;
+    position: relative;
+    top:10px;
+    left:5px;
+}
+.row{
+    position: relative;
+    top:15px;
+   
+}
+.sit{
+    position: relative;
+    top:20px;
+}
+.sitting{
+    width:70vw;
+    float: right;
+    position: relative;
+    top:30px;
+    
+}
+.flawer{
+    width:70vw;
+    position: relative;
+    margin : 0 auto;
+    top:90px;
+}
+.flawer2{
+    width:85vw;
+    position: relative;
+    top:150px;
+}
+.flawer3{
+    width:85vw;
+    position: relative;
+    top:155px;
+}
+.flawer4{
+    width:80vw;
+    position: relative;
+    margin:0 auto;
+    top:195px;
+}
+.mid1{
+    width:95vw;
+    position: relative;
+    margin:0 auto;
+    top:235px;
+}
+.mid2{
+    width:80vw;
+    position: relative;
+    margin:0 auto;
+    top:275px;
+}
+.mid3{
+    width:90vw;
+    position: relative;
+    margin:0 auto;
+    top:305px;
+}
+.cut{
+    width:90vw;
+    position: relative;
+    margin:0 auto;
+    top:405px;
+}
+.stand{
+    position: relative;
+    top:505px;
+}
+.last{
+    width:55vw;
+    position: relative;
+    top:535px;
+    float: right;
+    right:40px;
+}
